@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/drink-buddy-app/static/css/main.803da648.css",
+    "main.js": "/drink-buddy-app/static/js/main.22a611cc.js",
+    "static/js/787.9ba439d3.chunk.js": "/drink-buddy-app/static/js/787.9ba439d3.chunk.js",
+    "static/media/verre.png": "/drink-buddy-app/static/media/verre.03c7fea6c9e416f17713.png",
+    "static/media/noel-1.png": "/drink-buddy-app/static/media/noel-1.92f81e5894b8130bd3a0.png",
+    "static/media/background-form.png": "/drink-buddy-app/static/media/background-form.832385f291c2b0ebe07b.png",
+    "static/media/noel-2.jpg": "/drink-buddy-app/static/media/noel-2.362de988ad9a1929b198.jpg",
+    "static/media/logo-negatif.png": "/drink-buddy-app/static/media/logo-negatif.afacd3f28040ca96e6d6.png",
+    "index.html": "/drink-buddy-app/index.html",
+    "main.803da648.css.map": "/drink-buddy-app/static/css/main.803da648.css.map",
+    "main.22a611cc.js.map": "/drink-buddy-app/static/js/main.22a611cc.js.map",
+    "787.9ba439d3.chunk.js.map": "/drink-buddy-app/static/js/787.9ba439d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.803da648.css",
+    "static/js/main.22a611cc.js"
+  ]
+}
